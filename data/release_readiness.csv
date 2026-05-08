@@ -1,0 +1,13 @@
+Release_ID,Feature,Product_Area,Owner,Release_Date,QA_Status,Product_Approval,Risk_Review,Documentation_Status,Rollback_Plan,Stakeholder_Signoff,Known_Issues,Dependency_Status,Priority
+R001,User Role Management,Access Management,Avery Chen,2026-03-15,Passed,Yes,Complete,Complete,Complete,Yes,0,Clear,High
+R002,Bulk User Upload,Onboarding,Maya Patel,2026-03-18,In Progress,Yes,Complete,Incomplete,Complete,No,2,Clear,High
+R003,Dashboard Aging Indicators,Dashboard,Jordan Lee,2026-03-20,Passed,Yes,Complete,Complete,Complete,Yes,0,Clear,Medium
+R004,Advanced Search Filters,Search,Nina Brooks,2026-03-22,Failed,No,Incomplete,Incomplete,Incomplete,No,5,Blocked,High
+R005,CSV Export Enhancements,Reporting,Leo Martin,2026-03-25,Passed,Yes,Complete,Complete,Complete,Yes,1,Clear,Medium
+R006,Audit Log Filter Upgrade,Audit Log,Sofia Rivera,2026-03-27,In Progress,Yes,Complete,Complete,Incomplete,No,2,At Risk,High
+R007,Mobile Layout Improvements,Mobile Experience,Ethan Kim,2026-03-29,Passed,Yes,Complete,Incomplete,Complete,Yes,1,Clear,Medium
+R008,Password Reset Error Messaging,Authentication,Olivia Smith,2026-04-02,Passed,Yes,Incomplete,Complete,Complete,No,1,At Risk,High
+R009,Configurable Dashboard Widgets,Dashboard,Daniel Wilson,2026-04-05,In Progress,No,Incomplete,Incomplete,Incomplete,No,4,Blocked,Medium
+R010,Access Removal Workflow,Access Management,Priya Shah,2026-04-08,Passed,Yes,Complete,Complete,Complete,Yes,0,Clear,High
+R011,Scheduled Report Delivery,Reporting,Marcus Green,2026-04-10,In Progress,Yes,Complete,Incomplete,Complete,No,3,At Risk,Medium
+R012,Session Timeout Controls,Authentication,Emma Johnson,2026-04-12,Passed,Yes,Complete,Complete,Complete,Yes,0,Clear,Low
