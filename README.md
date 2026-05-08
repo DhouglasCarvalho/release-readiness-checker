@@ -1,4 +1,5 @@
-**Streamlit:** https://release-readiness-checker-grj4kao8bht3wybfe9rndn.streamlit.app/
+## Live Demo </br>
+Streamlit App: https://release-readiness-checker-grj4kao8bht3wybfe9rndn.streamlit.app/
 
 
 # Release Readiness Checker
